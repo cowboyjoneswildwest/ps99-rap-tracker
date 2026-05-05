@@ -1,0 +1,13 @@
+{
+  "name": "ps99-data-collector",
+  "version": "1.0.0",
+  "description": "24/7 data collector for PS99 market data",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
